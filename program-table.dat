@@ -1,0 +1,4 @@
+       FD PROGRAM-INPUT-FILE.
+       01 PROGRAM-INPUT-TABLE.
+           02 PROGRAM-CODE          PIC X(6).
+           02 PROGRAM-NAME          PIC X(20).
